@@ -1,14 +1,14 @@
-# RELATÃ“RIO DE IMPLEMENTAÃ‡ÃƒO DE SERVIÃ‡OS AWS
+# RELATÓRIO DE IMPLEMENTAÇÃOO DE SERVIÇOS AWS
 
 Data: 24/12/2025
 Empresa: Abstergo Industries 
-ResponsÃ¡vel: Nicolas Moreira Portes
+Responsável: Nicolas Moreira Portes
 
-## IntroduÃ§Ã£o
-Este relatÃ³rio apresenta o processo de implementaÃ§Ã£o de ferramentas na empresa [nome da empresa], realizado por [nome do responsÃ¡vel pelo projeto]. O objetivo do projeto foi elencar 3 serviÃ§os AWS, com a finalidade de realizar diminuiÃ§Ã£o de custos imediatos.
+## Introdução
+Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries , realizado por Nicolas Moreira Portes. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
 
-## DescriÃ§Ã£o do Projeto
-O projeto de implementaÃ§Ã£o de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos especÃ­ficos. A seguir, serÃ£o descritas as etapas do projeto:
+## Descrição do Projeto
+O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serÃ£o descritas as etapas do projeto:
 
 Etapa 1: 
 - Amazon RDS
@@ -27,10 +27,10 @@ Etapa 3:
 
 
 
-## ConclusÃ£o
-A implementaÃ§Ã£o de ferramentas na empresa Abstergo Industries  tem como esperado Facilitar a gestão , o que aumentarÃ¡ a eficiÃªncia e a produtividade da empresa. Recomenda-se a continuidade da utilizaÃ§Ã£o das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+## Conclusão
+A implementação de ferramentas na empresa Abstergo Industries  tem como esperado Facilitar a gestão , o que aumentará¡ a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 
-Assinatura do ResponsÃ¡vel pelo Projeto:
+Assinatura do Responsável pelo Projeto:
 
 Nicolas Moreira Portes
